@@ -1,28 +1,58 @@
 # Seja bem-vindo(a)! | Welcome! 👋
 
-## SOBRE MIM | ABOUT ME
+# 🌳 Árvore de Experiências Acadêmicas
 
-- 🔭 Atualmente estou trabalhando em: | I’m currently working on:
-  - Aprender Programação! | Learning Programming!
+## 🎓 Universidade de São Paulo (USP)
+**MBA em Engenharia de Software**  
+**OBSERVAÇÃO: EM ANDAMENTO**
 
-- 🌱 No momento estou aprendendo: | I’m currently learning:
-  - Desenvolvimento Full-Stack! | Full-Stack Development!
+**Descrição:**
+Aluno de MBA em Engenharia de Software na USP, uma das melhores Universidades do Brasil e do mundo, em que conquistei Bolsa Integral.
 
-- 👯 Estou querendo colaborar em: | I’m looking to collaborate on:
-  - Aprender Programação! | Learning Programming!
+----------------------------
 
-- 🤔 Estou procurando ajuda com: | I’m looking for help with:
-  - Desenvolvimento Full-Stack! | Full-Stack Development!
+## 💻 OneBitCode
+**Formação Full-Stack JavaScript**  
+**Profissionalizante em Desenvolvimento de Software**  
+**OBSERVAÇÃO: EM ANDAMENTO**
 
-## ENTRE EM CONTATO | GET IN TOUCH
+----------------------------
 
-- 📫 Contate-me via: | Contact me via:
-  - github.com/kelvinmosna
+## 🚀 Cubos Academy
+**Profissionalizante em Engenharia de Software**  
+**OBSERVAÇÃO: DROPOUT (abandonado nos primeiros momentos de Curso)**
+
+**Descrição:**
+Hobbysta em TI, iniciei este Curso para prospectar habilidades no desenvolvimento de softwares, com Bolsa integral pelo "Sucesso Compartilhado". Contudo, decidi não dar seguimento.
+
+----------------------------
+
+## 🛠️ SENAI
+**Tecnologia da Informação e Comunicação**  
+**Curso Livre em TI**  
+**OBSERVAÇÃO: CONCLUÍDO**
+
+----------------------------
+
+## 🧩 SENAI
+**Lógica de Programação**  
+**Curso Livre em TI**  
+**OBSERVAÇÃO: CONCLUÍDO**
+
+----------------------------
+
+## 🏛️ Universidade Estadual de Campinas
+**Técnico em Informática**  
+**OBSERVAÇÃO: DROPOUT (abandonado nos primeiros meses)**
+
+**Descrição:** 
+Hobbysta em TI, na adolescência iniciei minha trajetória com esta formação em Informática da UNICAMP, que foi fundamental para eu prospectar diversas aptidões e estava alinhado ao meu perfil de "Nativo Digital" desde a tenra idade. Contudo, abandonei este Curso para assumir a conquista da Bolsa Integral no Curso do Bacharel em Direito, que era meu sonho profissional.
+
+Ainda que interrompido, o Curso forneceu saberes fundantes sobre modernidade e tecnologias e contribuiu na minha formação pessoal e profissional. Além disso, foi uma honra ser aprovado num dos "Vestibulinhos" mais difíceis do país.
+
+Além disso, esta etapa de minha juventude foi crucial para que, hoje, eu pesquise novas Tecnologias na perspectiva sociojurídica/ética, em temas como Populismo Digital, Crimes Digitais, Desinformação, etc., aplicados ao Direito. Acredito que a compreensão profunda dessa conexão entre elementos da contemporaneidade tecnológica e o Direito é essencial para lidar com os desafios do presente.
 
 ## MAIS SOBRE MIM | MORE ABOUT ME
-
-- 😄 Pronomes: | Pronouns:
-  - Ele/Dele | He/Him
 
 - ⚡ Curiosidade | Fun fact:
   - Gamer, Metaleiro e Cinéfilo nas horas vagas! | Gamer, Headbanger and Cinephile at free time!
