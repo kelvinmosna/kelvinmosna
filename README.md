@@ -46,9 +46,13 @@ Além disso, esta etapa de minha juventude foi crucial para que, hoje, eu pesqui
 ## 🛠️ CURSOS LIVRES DIVERSOS:
 
 **Tecnologia da Informação e Comunicação - SENAI**
+
 **Lógica de Programação - SENAI**
+
 **Start na Programação - OneBitCode**
+
 **Start na Programação 2.0 - OneBitCode**
+
 **Trilha Discover - Rocketseat**
 
 ----------------------------
