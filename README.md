@@ -45,6 +45,8 @@ Além disso, esta etapa de minha juventude foi crucial para que, hoje, eu pesqui
 
 ## 🛠️ CURSOS LIVRES DIVERSOS:
 
+Os Cursos a seguir são ideais para quem está começando na área de tecnologia e programação. Embora sejam de caráter introdutório, eles oferecem uma base interessante e bem estruturada para quem deseja iniciar seus estudos. São curtos e diretos ao ponto, focando nos fundamentos essenciais que, apesar de resumidos, são excelentes para uma primeira imersão no mundo da TI e do desenvolvimento de software. Por isso, fiz todos eles e recomendo por aqui!
+
 **Tecnologia da Informação e Comunicação - SENAI**
 
 **Lógica de Programação - SENAI**
