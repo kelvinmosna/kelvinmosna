@@ -59,25 +59,6 @@ Os Cursos a seguir são ideais para quem está começando na área de tecnologia
 
 ----------------------------
 
-# 💼 Experiências Profissionais
-
-## 🎮 Criador de Conteúdo Digital
-**Autônomo**  
-**2012 - 2014**
-
-**Descrição:**
-Se existe algo que eu sempre soube desde adolescente é que o mundo digital era o meu playground. Entre os anos de 2012 e 2014, quando a maioria estava apenas começando a desbravar a internet, eu, com pouca idade, já estava mergulhando de cabeça como Criador de Conteúdo Digital.
-
-Meus blogs "Fate Of Games", "Guga Games" e "High Nerd", hospedados no Blogger, eram meu palco para compartilhar as últimas notícias sobre games e cultura geek. Mas não parava por aí: eu também moldava minhas ideias em artigos de opinião e dava vida às palavras com imagens que eu mesmo editava. Até mesmo o HTML, a linguagem de programação dos bastidores, era minha ferramenta para criar um toque especial no visual dos sites.
-
-Mas a minha jornada não se limitava ao Blogger. No WordPress, eu dei vida a projetos como "Nerd Knot" e "Neurônios Incandescentes", onde as histórias ganhavam vida com um toque de muita criatividade entre publicações e vídeos descontraídos no YouTube com os colegas de Blog.
-
-Os projetos, que eram descontraídos, foram encerrados, mas essa jornada foi importante não só para que eu entendesse o funcionamento da rede mundial de computadores e me inteirasse sobre as ferramentas de informação, mas, também, foi essencial para o desenvolvimento da minha maturidade e senso de autonomia desde jovem.
-
-Tudo isso com muito trabalho em equipe!
-
-----------------------------
-
 ## MAIS SOBRE MIM | MORE ABOUT ME
 
 - ⚡ Curiosidade | Fun fact:
